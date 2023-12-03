@@ -1,2 +1,2 @@
-# Expense-app
+# Expense_app
 expense mern stack app
